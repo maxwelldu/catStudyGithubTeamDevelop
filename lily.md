@@ -11,6 +11,6 @@
 
 Git和Python教程
 
-*http://www.liaoxuefeng.com/  
+* http://www.liaoxuefeng.com/  
 
 
